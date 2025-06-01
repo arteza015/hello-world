@@ -1,1 +1,25 @@
-# hello-world
+<!DOCTYPE html>
+<html>
+<head>
+<title>Center Div</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    min-height: 100vh;      
+    margin: 0;             
+  }
+
+  div {
+    border: 2px solid black; 
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+
+  <div>Hello World!</div>
+
+</body>
+</html>
